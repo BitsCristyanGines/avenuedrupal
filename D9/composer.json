@@ -20,7 +20,9 @@
         "drupal/core-project-message": "^9.1",
         "drupal/core-recommended": "^9.1",
         "drupal/electra": "^3.2",
-        "drupal/pathauto": "1.8"
+        "drupal/page_manager": "^4.0@beta",
+        "drupal/pathauto": "1.8",
+        "drupal/tara": "^2.3"
     },
     "conflict": {
         "drupal/drupal": "*"
